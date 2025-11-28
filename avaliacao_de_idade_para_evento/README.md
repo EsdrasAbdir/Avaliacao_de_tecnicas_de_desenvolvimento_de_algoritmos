@@ -1,8 +1,7 @@
 # Sistema de verificação de idade 🔞
 ![Maior de idade?](assets/idade-14-9161.gif)
 
-<div style="background: linear-gradient(90deg, #0066ff, #00ccff); color: white; padding: 12px 20px; border-radius: 8px; font-size: 1.1em; font-weight: bold;">
-## Atributos usados para resolver o problema</div>
+## Atributos usados para resolver o problema
 - Lógica
     - algoritmo
     - abstração
@@ -12,4 +11,11 @@
     - estruturas condicionais
     - dicionário
     - lista
-    - E for
+    - uso de for
+
+### O programa faz uma confirmação de idade para  a ida em um evento. Utilizei o try e o except para pegar erros de tipos na idade. **Foi projetado de forma mais robusta com uso de dict e list** , embora não precise no enunciado.
+
+- [] Tarefa pendent
+- [x] Tarefa concluída 😊
+
+![Gif coding](assets/200w.gif)
