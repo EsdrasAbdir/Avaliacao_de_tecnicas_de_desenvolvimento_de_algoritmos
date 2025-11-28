@@ -15,7 +15,7 @@
 
 ### O programa faz uma confirmação de idade para  a ida em um evento. Utilizei o try e o except para pegar erros de tipos na idade. **Foi projetado de forma mais robusta com uso de dict e list** , embora não precise no enunciado.
 
-- [ ] Tarefa pendent
+- [ ] Tarefa pendente
 - [x] Tarefa concluída 😊
 
 ![Gif coding](assets/200w.gif)
