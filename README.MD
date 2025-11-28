@@ -4,8 +4,8 @@
 
 ![GIF](Assets/e426702edf874b181aced1e2fa5c6cde.gif)
 
--[ ] Tarefa pendente
--[x] Tarefa concluída
+- [ ] Tarefa pendente
+- [X] Tarefa concluída
 
 ### Apesar de tarefas simples, ajudou-me a solidificar ainda mais o meu conhecimento 🧐 em :
 
