@@ -11,7 +11,7 @@
 
 - Lógica
 - Sintaxe
-- Uso do de lista e funções de lista.
-- Uso do loop for para iterar em cada índice da lista
+- Uso de lista e algumas funções da lista.
+- Uso do loop for para iterar em cada índice da lista.
 
 ![Gif](assets/giphy.gif)
