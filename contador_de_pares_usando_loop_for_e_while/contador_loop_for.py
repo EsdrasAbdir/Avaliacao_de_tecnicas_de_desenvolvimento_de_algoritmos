@@ -16,6 +16,29 @@ print('🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎Contador de 1 até 100 usando o l
 for contador in numero:
     if contador % 2 == 0:
         print(contador)
-        contador += 1
+        
 
+
+#                          Pseudo-código desse programa
+
+""" 
+
+importar a biblioteca random
+importar a biblioteca Limpar
+
+variável contador igual a 1
+variável número igual a 1 até 101
+
+Limpar terminal
+
+Exiba 🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎Contador de 1 até 100 usando o loop for para números pares🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎
+
+iterar e iniciar loop de repetição começando do contador dentro do número
+
+Se o módulo do contador por 2 for igual a 0
+
+Exiba contador
+
+
+"""
 

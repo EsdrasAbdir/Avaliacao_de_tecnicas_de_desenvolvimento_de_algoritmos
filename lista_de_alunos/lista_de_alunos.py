@@ -20,3 +20,31 @@ print()
 for aluno in lista_de_alunos:
     print(aluno)
     print()
+
+
+#                    Pseudo-código 
+
+"""  
+Iniciar
+
+Criar uma variável lista para armazenar dados 
+
+Iniciar laço de repetição enquanto verdadeiro
+
+Solicitar variável aluno ao usuário
+
+Se variável aluno for igual a 's' pare.
+
+Senão se variável aluno for uma string vazia  exiba 'nome inválido❌😒'
+
+Caso contrário Adiciona na variável lista o nome
+
+Exiba '----------------------------🤷Lista de Alunos🤷‍♀️-------------------------------------'
+
+Exiba Nada para pular linha
+
+Iniciar laço de repetição para iterar nos alunos da lista e exiba a váriavel aluno
+
+Exiba Nada para pular linha
+
+"""

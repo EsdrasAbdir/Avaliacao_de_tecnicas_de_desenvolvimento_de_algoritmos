@@ -25,3 +25,45 @@ try:
         print(f'Nome do produto: {item} / preço: {preco_do_produto}💰R$')
 except ValueError:
     print('Preço inválido❌❌❌')
+
+
+#                          Pseudo-código
+
+
+""" 
+Inicializar
+
+Tentar
+
+Iniciar laço de repetição
+
+Solicitar a variável produto
+
+Se o produto for igual a 's', pare o programa
+
+Senão se produto for igual a nada exiba 'Produto inválido😒' e continue
+
+Caso contrário Solicitar a variável preco do produto e guardar a variavel em um dicionário com o produto sendo chave e preço sendo valor
+
+Saindo do laço de repetição exiba ''------------------------😎Lista de produtos e preços😎----------------------------------'
+
+Exiba nada para pular linha
+
+inicie outro laço de repetição para iterar no item e preço de produto no dicionário e exiba item e valor
+
+Excecão exiba 'Preço inválido❌❌❌'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""

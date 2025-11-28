@@ -18,4 +18,6 @@
 - [ ] Tarefa pendente
 - [x] Tarefa concluída 😊
 
+
+
 ![Gif coding](assets/200w.gif)

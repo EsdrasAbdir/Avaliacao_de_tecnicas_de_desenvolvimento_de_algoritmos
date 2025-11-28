@@ -13,3 +13,19 @@ while numero < 101:
         numero += 1
     else:
         numero += 1
+
+#                          Pseudo-código
+
+"""
+
+Inicializar
+
+Exiba 🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎Contador de 1 até 100 usando o loop while🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎
+
+Inicie o laço de repetição
+
+Se o módulo do número for igual a 0 então Exiba o número e incrementa mais um
+
+Caso contrário só incrementa o número
+
+"""
